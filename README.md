@@ -1,6 +1,8 @@
 # LGMVIP-DataScience-Task-01
 ## Iris Flower Classification
-  <img scr="https://miro.medium.com/v2/resize:fit:900/0*Uw37vrrKzeEWahdB">
+<p>
+  <img scr="https://github.com/Kamalesh-02/LGMVIP-DataScience-Task-01/blob/main/Visualization/0_Uw37vrrKzeEWahdB.jpg">
+</p>
   
 ### Introduction:
 This documentation provides a comprehensive overview of the Iris Flowers Classification ML project. It includes information about the project's purpose, dataset, model architecture, training process, and evaluation metrics.
